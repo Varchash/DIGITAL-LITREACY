@@ -1,4 +1,4 @@
-#  Digital Literacy Portfolio Project
+#  Digital Literacy Project
 
 **Name:** Varchasv Goswami  
 **Reg. No.** 25BAI10537
