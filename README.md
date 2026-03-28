@@ -46,7 +46,7 @@ Built professional profiles on platforms like GitHub, LinkedIn, and Kaggle to es
 ###  Task 3: Coding & Collaboration Platforms
 Solved a beginner-level problem on HackerRank and created a Google Form quiz to understand collaboration and data collection tools.
 
-🔗 **Google Form Link:** (https://docs.google.com/forms/d/e/1FAIpQLSdCzBloqjFM0DDHlI1x3S_NokoeMaqAk73uvyCk7UJ1gDBaDw/viewform)
+Google Form Link(https://docs.google.com/forms/d/e/1FAIpQLSdCzBloqjFM0DDHlI1x3S_NokoeMaqAk73uvyCk7UJ1gDBaDw/viewform)
 
 ---
 
