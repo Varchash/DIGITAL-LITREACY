@@ -1,6 +1,7 @@
 Responsible Social Media Use Checklist for College Students
 
-## ✅ Do’s
+### Do’
+
 - Think before you post – consider how it might be perceived later  
 - Maintain a professional profile – use a clear photo and appropriate bio  
 - Protect your privacy – adjust settings and limit personal information sharing  
@@ -9,11 +10,12 @@ Responsible Social Media Use Checklist for College Students
 
 ---
 
-## ❌ Don’ts
+### Don’ts
+
 - Don’t share sensitive personal details – like phone number, address, or passwords  
 - Don’t post offensive or inappropriate content – it can harm your reputation  
 - Don’t engage in online arguments or trolling – it rarely ends well  
 - Don’t overshare your daily life – too much visibility can compromise privacy  
 - Don’t ignore your digital footprint – what you post today can affect your future  
 
----
+--- 
